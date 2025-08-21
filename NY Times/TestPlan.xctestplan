@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "50DC5F24-0FA6-4958-B2FE-A5CE4AA52CCE",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:NY Times.xcodeproj",
+        "identifier" : "86C032DE2E550C89007833CA",
+        "name" : "NY TimesTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:NY Times.xcodeproj",
+        "identifier" : "86C032E82E550C89007833CA",
+        "name" : "NY TimesUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

@@ -50,7 +50,7 @@ The Application consists of two main views.
 1. **Articles List:** This is where we are hitting api request to fetch all the articles.
 2. **Detail View:** The user can click on the article which will open up the detail screen where article's detail is displayed using `webview`. 
 
-The Application is scalable and maintainable. 
+The Application is scalable and maintainable. For further technical details I've added comments in the code.
 
 
 -----
